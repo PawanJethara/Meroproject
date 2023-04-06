@@ -11,7 +11,7 @@
  while($row = $result->fetch_assoc()){
   $json[$row['ci_id']] = $row['ci_name'];
 }
-
+vzxcvzx
 
 echo json_encode($json);
 ?> 
