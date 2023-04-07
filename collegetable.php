@@ -40,7 +40,7 @@
       </ul>
   </div>
 </nav>
-
+<?php echo "Hello";?>
       <form class="example" action="" method="POST">
         <input type="text" placeholder="Search.." name="search">
         <button type="submit" name="submit"><i class="fa fa-search"></i>Search</button>
